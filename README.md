@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi People!
+
+I'm sysadmin and I decided to become a programmer.
